@@ -13,5 +13,3 @@ class FCM {
         return pow(27, order);
     };    
 };
-
-teste
