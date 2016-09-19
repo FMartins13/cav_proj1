@@ -7,5 +7,7 @@ class FCM {
         int table[][];
     
     // metodos
-        
+    int getOrder(int order) {
+        return 27*order;
+    };    
 };
